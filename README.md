@@ -32,16 +32,16 @@ To create your own ParkingLot -
 2. Run `python parkingLot.py` to run without input test case file. This opens a shell where you can write your commands like -
 <!-- 
   ![p1](https://user-images.githubusercontent.com/19779081/61169444-24e41a80-a57b-11e9-93bc-32e3f290031d.png) -->
-  ![Alt text](images\shell.JPG?raw=true "Title")
+  ![Alt text](images/shell.JPG?raw=true "Title")
   
 3. To run with a file execute `python parkingLot.py -f run_test_case.txt. You can modify the test cases.
   
   <!-- ![p2](https://user-images.githubusercontent.com/19779081/61169533-7f31ab00-a57c-11e9-9bf6-9d9aa09177d0.png) -->
-  ![Alt text](images\script.JPG?raw=true "Title")
+  ![Alt text](images/script.JPG?raw=true "Title")
 
 4. You can also run the test cases separately as `python test_parking_lot.py`. This runs the 6 test cases written in file. This is very useful when you want to create your own function and test it simultaneously.
 <!-- 
 ![park3](https://user-images.githubusercontent.com/19779081/61169483-c4a1a880-a57b-11e9-9ba0-d204bdb1cbbc.PNG) -->
-  ![Alt text](images\test.JPG?raw=true "Title")
+  ![Alt text](images/test.JPG?raw=true "Title")
 
 
