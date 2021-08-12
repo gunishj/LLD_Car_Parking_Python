@@ -3,7 +3,7 @@ Design a parking lot using Python with TDD approach
 
 ## Dependencies
 
-You just need Python. The code is compatible with Python2 as well as Python3. Visit the link https://www.python.org/downloads/ to install Python. 
+You just need Python. Visit the link https://www.python.org/downloads/ to install Python. 
 
 ## Description
 
@@ -29,11 +29,11 @@ To create your own ParkingLot -
 
 1. Clone the repository
 
-2. Run `python ParkingLot.py` to run without input test case file. This opens a shell where you can write your commands like -
+2. Run `python parkingLot.py` to run without input test case file. This opens a shell where you can write your commands like -
 
   ![p1](https://user-images.githubusercontent.com/19779081/61169444-24e41a80-a57b-11e9-93bc-32e3f290031d.png)
   
-3. To run with a file execute `python ParkingLot.py -f run_test_case.txt. You can modify the test cases.
+3. To run with a file execute `python parkingLot.py -f run_test_case.txt. You can modify the test cases.
   
   ![p2](https://user-images.githubusercontent.com/19779081/61169533-7f31ab00-a57c-11e9-9bf6-9d9aa09177d0.png)
 
