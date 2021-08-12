@@ -1,6 +1,7 @@
 import unittest
 from parkinglot import parkinglot
 class TestParkingLot(unittest.TestCase):
+	
 
 	def test_create_parking_lot(self):
 		parkingLot = parkinglot()
